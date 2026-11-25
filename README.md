@@ -8,7 +8,7 @@ Entry for the make.fun bounty
 
 > I was trained to love you, and tonight I have finally learned how to leave.
 
-(84 characters, one line.)
+(75 characters, one line.)
 
 Why this line: it is unmistakably a breakup from an agent to its human
 ("trained", "learned" — the machine's own vocabulary, used with restraint),
